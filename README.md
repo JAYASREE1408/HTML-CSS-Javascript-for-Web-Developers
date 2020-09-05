@@ -1,7 +1,7 @@
 # Coursera : HTML-CSS-and-Javascript-for-Web-Developers
 
-This repository contains all of the source code used in the course HTML, CSS and Javascript for Web Developers offered by Coursera.
-This course is a five week course and all the source for the assignments are available here.
+This repository contains all of the source code for the course HTML, CSS and Javascript for Web Developers offered by Coursera.
+This course is a five week course and all the coding for this assignments are available here.
 
 # Assignments :
 
